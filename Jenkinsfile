@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "harininallap3/docker-jenkins"
+    imagename = "harini5345345/harinirepo"
     registryCredential = 'dockerhub'
     dockerImage = ''
   }
